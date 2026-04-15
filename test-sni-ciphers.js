@@ -18,7 +18,6 @@ const ENDPOINTS = [
   "apitest.smart2pay.com",
   "paytest.smart2pay.com",
   "securetest.smart2pay.com",
-  "secure.smart2pay.com",
 ];
 
 // TLS 1.3 cipher suites (configured via cipherSuites option)
