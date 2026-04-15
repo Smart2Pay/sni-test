@@ -4,7 +4,7 @@ A zero-dependency Node.js script to verify that your system supports the upcomin
 
 ## Background
 
-Starting **May 1, 2026**, Nuvei is migrating all public TLS/SSL certificates to an SNI-only configuration and removing legacy cipher suites. The sandbox/integration environments have been updated since **April 1, 2026** for early testing.
+Starting **May 1, 2026**, Nuvei is migrating all public TLS/SSL certificates to an SNI-only configuration and removing legacy cipher suites. The sandbox/integration environments have been updated since **April 15, 2026** for early testing.
 
 This script tests:
 
@@ -98,8 +98,8 @@ npm test
 
 | Date | Milestone |
 |------|-----------|
-| April 1, 2026 | Sandbox/Integration environments updated |
-| April 1 – April 30, 2026 | Testing period |
+| April 15, 2026 | Sandbox/Integration environments updated |
+| April 15 – April 30, 2026 | Testing period |
 | May 1, 2026 | Production rollout |
 
 ## Support
