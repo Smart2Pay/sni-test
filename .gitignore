@@ -1,0 +1,7 @@
+node_modules/
+*.docx
+*.xlsx
+*.md
+!README.md
+generate-doc.js
+generate-excel-report.js
